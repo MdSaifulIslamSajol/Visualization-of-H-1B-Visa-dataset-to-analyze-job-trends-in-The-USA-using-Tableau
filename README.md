@@ -10,3 +10,5 @@ which posts are most desirables by the employers.
 ## Dataset  
 The **[H1B Data Set 2017](https://www.kaggle.com/jonamjar/h1b-data-set-2017)** is provided by the US Department of Labor about H1B Visa - 2017
 ## Project [link](https://public.tableau.com/app/profile/md.saiful.islam.sajol/viz/VisualizationofH-1BVisaDataSet/Story1)
+## Project [Description and Report](https://github.com/MdSaifulIslamSajol/Visualization-of-H-1B-Visa-dataset-to-analyze-job-trends-in-The-USA-using-Tableau-/blob/46db88de39a364d78a001b25668440a1dac824f2/Project%20%20Description.pdf)
+## Powerpoint [Presentation](https://github.com/MdSaifulIslamSajol/Visualization-of-H-1B-Visa-dataset-to-analyze-job-trends-in-The-USA-using-Tableau-/blob/main/Powerpoint%20Presentation%20on%20the%20Project.pptx)
